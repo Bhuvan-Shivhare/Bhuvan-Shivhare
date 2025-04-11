@@ -1,4 +1,6 @@
-# 👋 Hi there, I'm **Your Name**!
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi+there%2C+I+am+Bhuvan+Shivhare;Web+Developer+%7C+Creative+Coder+%7C+Tech+Explorer" alt="Typing SVG" />
+</h1>
 
 🎓 I'm currently pursuing **B.Tech in Computer Science and Engineering**.  
 💻 A passionate **Web Developer** who loves building beautiful, responsive, and interactive websites.
