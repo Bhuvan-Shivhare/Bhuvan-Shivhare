@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm **Bhuvan Shivhare**!
 
 🎓 I'm currently pursuing **B.Tech in Computer Science and Engineering**.  
 💻 A passionate **Web Developer** who loves building beautiful, responsive, and interactive websites.
@@ -7,28 +7,28 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently focused on improving my **full-stack web development** skills
-- 🌱 Always learning and exploring new tools, frameworks, and best practices
-- 👯 I’m open to collaborating on interesting frontend or full-stack projects
-- 💬 Ask me about anything related to web development — I’d love to help!
+- 🔭 Currently focused on improving my **full-stack web development** skills  
+- 🌱 Continuously learning new tools, frameworks, and best practices  
+- 👯 Open to collaborating on exciting frontend or full-stack projects  
+- 💬 Ask me anything about web development — I'm always happy to help!
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ Tech Stack
 
-### 💻 Frontend
-- **HTML5**, **CSS3**, **JavaScript**
-- **Bootstrap**, **Tailwind CSS**
-- **React**, **jQuery**
-- **GSAP** (GreenSock Animation Platform)
-- **Flutter** (basic mobile development)
+### 💻 Frontend:
+- HTML5, CSS3, JavaScript  
+- Bootstrap, Tailwind CSS  
+- React, jQuery  
+- GSAP (GreenSock Animation Platform)  
+- Flutter (basic mobile development)
 
-### 🖥️ Backend
-- **Node.js**, **Express.js**
-- **MongoDB**
+### 🖥️ Backend:
+- Node.js, Express.js  
+- MongoDB
 
-### ⚙️ Tools & Platforms
-- **Git**, **GitHub**
+### ⚙️ Tools & Platforms:
+- Git & GitHub  
 - Postman, Figma, VS Code
 
 ---
@@ -45,10 +45,10 @@
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-link)
-- [Portfolio](https://yourportfolio.com)
-- Email: your.email@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)
+- 🌐 [Portfolio](https://yourportfolio.com)
+- 📧 your.email@example.com
 
 ---
 
-⭐️ Thank you for visiting my profile! Feel free to explore my projects and connect with me!
+⭐️ *Thanks for visiting my profile! Check out my repositories and feel free to connect!*
