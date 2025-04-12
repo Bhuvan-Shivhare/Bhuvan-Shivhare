@@ -4,7 +4,7 @@
 
 ## 🌟 About me :
 
-- 🎓 Sophomore at **Indian Institute of Information Technology, Bhopal**
+- 🎓 Pre Final Year at **Indian Institute of Information Technology, Bhopal**
 - 🔭 I’m currently working on **MERN PROJECTS**
 - 📚 I’m currently learning **Full Stack, DSA and CP**
 - 🌱 Always learning, always building — let's connect and create something awesome!
