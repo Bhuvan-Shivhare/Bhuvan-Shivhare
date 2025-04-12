@@ -1,13 +1,12 @@
 
+## 🌟 About me :
 
----
- About me :
-🎓 Sophomore at Indian Institute of Information Technology, Bhopal
-🔭 I’m currently working on MERN PROJECTS
-🌱 I’m currently learning Full Stack, DSA and CP
-📚 Always learning, always building — let's connect and create something awesome!
-📧 Reach me at: bhuvanshivhare177@gmail.com
----
+- 🎓 Sophomore at **Indian Institute of Information Technology, Bhopal**
+- 🔭 I’m currently working on **MERN PROJECTS**
+- 🌱 I’m currently learning **Full Stack, DSA and CP**
+- 🤝 I’m looking to collaborate on **Web development projects**
+- 📧 Reach me at: [gk94129@gmail.com](mailto:gk94129@gmail.com)
+
 
 ## 🛠️ Tech Stack
 
