@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=500&lines=HI+I+AM+BHUVAN+SHIVHARE+👋" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=500&lines=HI+I+Am+Bhuvan+Shivhare+👋" alt="Typing animation" />
 </p>
+
 ## 🌟 About me :
 
 - 🎓 Sophomore at **Indian Institute of Information Technology, Bhopal**
