@@ -42,15 +42,4 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 --
-
----
-
-## 📫 Connect with Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)
-- 🌐 [Portfolio](https://yourportfolio.com)
-- 📧 your.email@example.com
-
----
-
 ⭐️ *Thanks for visiting my profile! Check out my repositories and feel free to connect!*
