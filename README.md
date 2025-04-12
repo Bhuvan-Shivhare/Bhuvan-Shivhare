@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **MERN PROJECTS**
 - 📚 I’m currently learning **Full Stack, DSA and CP**
 - 🌱 Always learning, always building — let's connect and create something awesome!
-- 📧 Reach me at: [gk94129@gmail.com](mailto:gk94129@gmail.com)
+- 📧 Reach me at: [gk94129@gmail.com](mailto:bhuvanshivhare177@gmail.com)
 
 
 ## 🛠️ Tech Stack
