@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Bhuvan+Shivhare!+🚀;Web+Developer+%F0%9F%92%BB" alt="Typing animation" />
-</p>
-
 
 
 ---
