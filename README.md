@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1200&center=true&vCenter=true&width=600&height=80&lines=👋+Hi+there!+I+am+𝓑𝓱𝓾𝓿𝓪𝓷+𝓢𝓱𝓲𝓿𝓪𝓱𝓻𝓮;🇪🇸+¡Hola!+Soy+𝐁𝐡𝐮𝐯𝐚𝐧+𝐒𝐡𝐢𝐯𝐚𝐡𝐫𝐞;🌼+हाय!+मी+भुवन+शिवहरे+आहे" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Bhuvan+Shivhare!+🚀;Web+Developer+%F0%9F%92%BB" alt="Typing animation" />
 </p>
+
 
 
 ---
