@@ -37,4 +37,4 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 --
-⭐️ *Thanks for visiting my profile! Check out my repositories and feel free to connect!*
+
