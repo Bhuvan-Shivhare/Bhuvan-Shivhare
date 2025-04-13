@@ -9,7 +9,6 @@
 - 📚 I’m currently learning **Full Stack, DSA and CP**
 - 🌱 Always learning, always building — let's connect and create something awesome!
 - 📧 Reach me at:[bhuvanshivhare177@gmail.com]
-jjjr
 
 ## 🛠️ Tech Stack
 
