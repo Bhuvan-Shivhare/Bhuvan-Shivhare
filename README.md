@@ -1,5 +1,6 @@
 <p align="center">
-BHUVAN SHIVHARE
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hey+I+Am+Bhuvan+Shivhare)
+
 </p>
 
 ## 🌟 About me:
